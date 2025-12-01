@@ -58,7 +58,7 @@ with code, documentation, and screenshots.
 
 ## Certifications & Learning Progress
 
-I keep a detailed running log in [`LEARNING_LOG.md`](./LEARNING_LOG.md), but
+I keep a detailed running log in [learning_log.md](./learning_log.md), but
 here are some key milestones:
 
 - CyberWardens Foundations – completed 1 November 2025  
