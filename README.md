@@ -44,6 +44,13 @@ with code, documentation, and screenshots.
   - *Description:* Bash scripts for file creation, modification, and directory watching.
     Good example of shell scripting, automation, and logging.
 
+- **Bash Scripting Course**
+  - *Repo:* [Mavin-db/Bash-Scripting-Course](https://github.com/Mavin-db/Bash-Scripting-Course)
+  - *Description:* A structured Bash scripting course progressing from beginner concepts to
+    a complete text-based adventure game. Includes seven lessons, documented examples,
+    and a final integrated project demonstrating loops, conditionals, arrays, functions,
+    and state management. Designed for teaching, self-study, and showcasing scripting proficiency.
+
 - **Bash Script Games (Teaching & CLI Practice)**
   - *Repo:* [Mavin-db/BashScriptGames](https://github.com/Mavin-db/BashScriptGames)
   - *Description:* Text-based games used for teaching students command-line skills and
