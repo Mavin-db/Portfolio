@@ -6,4 +6,5 @@
 - [x] CyberWardens Level One (26th November 2025)
 - [x] TryHackMe Network fundamentals completed (30th November 2025)
 - [x] CyberWardens Level Two (1st December 2025)
+- [x] Completed PreSecurity Try Hack Me (6th December 2025)
 
