@@ -73,7 +73,8 @@ here are some key milestones:
 - Cybrary Fundamentals – completed 5 November 2025  
 - CyberWardens Level One – completed 26 November 2025  
 - TryHackMe Network Fundamentals – completed 30 November 2025  
-- CyberWardens Level Two – completed 1 December 2025  
+- CyberWardens Level Two – completed 1 December 2025
+- Completed PreSecurity - Try Hack Me.
 
 ---
 
